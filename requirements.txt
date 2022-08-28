@@ -1,3 +1,0 @@
-proxy-tools==0.1.0
-pycparser==2.21
-pyglet==1.5.26
